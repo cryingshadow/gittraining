@@ -1,7 +1,8 @@
-Hello World!
-Welt sei mir gegrüßt, ich bin der Held der Steine, ...
-LG Maceo
-Hallo, mein Name ist Anna
-Hallo, mein Name ist Thomas
-Marcel
-Hi ich bin Fontoula
++ Hello World!
++ Welt sei mir gegrüßt, ich bin der Held der Steine, ...
++ LG Maceo
++ Hallo, mein Name ist Anna
++ Hallo, mein Name ist Thomas
++ Marcel
++ Hi ich bin Fontoula
++ Das sind alle Namen
